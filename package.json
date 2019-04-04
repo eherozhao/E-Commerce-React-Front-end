@@ -1,0 +1,36 @@
+{
+  "name": "assets",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "React-router": "latest",
+    "antd": "^3.11.0",
+    "api": "^1.0.0",
+    "axios": "^0.18.0",
+    "bootstrap": "^4.1.1",
+    "echarts": "^4.1.0",
+    "echarts-for-react": "^2.0.8",
+    "immutable": "latest",
+    "kafka-node": "^2.3.0",
+    "material-ui": "^0.20.2",
+    "prop-types": "latest",
+    "rc-queue-anim": "^1.6.8",
+    "react": "^16.8.2",
+    "react-bootstrap-table": "^4.3.1",
+    "react-css-modules": "^4.7.2",
+    "react-dom": "^16.3.2",
+    "react-redux": "^5.1.1",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.4",
+    "react-select": "^1.2.1",
+    "reactstrap": "^6.0.1",
+    "redux": "^4.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

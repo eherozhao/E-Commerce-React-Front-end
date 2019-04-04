@@ -1,0 +1,11 @@
+.class-select{
+    width: 30%;
+    margin: 40px;
+}
+.class-select-item{
+    margin-bottom: 20px;
+}
+.class-select-btn{
+    width: 50px;
+    margin: 0;
+}

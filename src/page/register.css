@@ -1,0 +1,19 @@
+.register-wrap {
+    position: relative;
+    height: 800px;
+    /*background-color: #ff3ebf;*/
+}
+
+.register-card {
+    /*margin: 200px auto;*/
+    width: 500px;
+    position: absolute;
+    left: 50%;
+    margin-left: -250px;
+    top: 50px;
+}
+.register-img{
+    position: absolute;
+    left: 50px;
+    top: 150px;
+}
